@@ -1,6 +1,6 @@
 public class Vehicle1{
     private double load; 
-    private final double maxLoad = 10000; 
+    private static final double maxLoad = 10000; 
     // public Vehicle1 (double max){ 
     // this.maxLoad = max; 
     // } 
